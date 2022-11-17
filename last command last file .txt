@@ -1,0 +1,2 @@
+ubuntu@ansible-cp:~/tomcat$ cp -pvr vars/main.yml vars/Debian.yml
+'vars/main.yml' -> 'vars/Debian.yml'
